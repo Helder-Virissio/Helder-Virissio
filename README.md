@@ -1,7 +1,7 @@
 # Olá 👋, Me chamo Helder Virissio
 
 🎓 **Fatec Luigi Papaiz** | Desenvolvimento de Software Multiplataforma (DSM)
-💻 Focado em construir soluções modernas para Web, Mobile e Cloud.
+<p>💻 Focado em construir soluções modernas para Web, Mobile e Cloud.
 🇧🇷 Brazil
 
 ---
