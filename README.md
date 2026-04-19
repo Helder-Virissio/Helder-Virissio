@@ -1,39 +1,68 @@
-# Olá 👋, Me chamo Helder Virissio
+# Olá 👋, eu sou Helder Araújo
 
-🎓 **Fatec Luigi Papaiz** | Desenvolvimento de Software Multiplataforma (DSM)
-💻 Focado em construir soluções modernas para Web, Mobile e Cloud.
-🇧🇷 Brazil
+💻 **Estudante de Desenvolvimento de Software (DSM - Fatec Diadema)**  
+🇧🇷 Brasil  
 
----
-
-## 🌐 Onde me encontrar
-
-[![LinkedIn](https://shields.io)](https://linkedin.com)
+Estou focado em aprender **desenvolvimento backend**, **bancos de dados** e na construção de **projetos práticos**.  
+Atualmente estou evoluindo minhas habilidades para me tornar um desenvolvedor profissional.
 
 ---
 
-## 🛠️ Tecnologias da Faculdade (DSM)
+## 🧠 O que estou aprendendo
 
-#### Linguagens & Core
-![JavaScript](https://shields.io)
-![Java](https://shields.io)
-![Python](https://shields.io)
-
-#### Web & Mobile
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![React Native](https://shields.io)
-
-#### Banco de Dados & Infra
-![MySQL](https://shields.io)
-![Docker](https://shields.io)
-![Azure](https://shields.io)
+- 🏗️ Desenvolvimento backend (Java / APIs)
+- 📊 Banco de dados (MySQL / PostgreSQL)
+- ⚡ Lógica de programação e resolução de problemas
+- 🧩 Boas práticas e clean code
+- 🔧 Controle de versão com Git e GitHub
 
 ---
 
-## 📊 GitHub Estatísticas
+## 🚀 Projetos
+
+- 📌 Sistema de cadastro (Java + MySQL)
+- 📌 API REST simples
+- 📌 Projetos acadêmicos (DSM)
+
+> Estou constantemente criando novos projetos para evoluir minhas habilidades.
+
+---
+
+## 🛠️ Tecnologias
+
+### Linguagens
+- Java
+- JavaScript (básico)
+
+### Ferramentas
+- Git & GitHub
+- MySQL
+- VS Code / IntelliJ
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="180" src="https://vercel.app" />
-  <img height="180" src="https://herokuapp.com" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Helder-Virissio&show_icons=true&theme=tokyonight" />
 </p>
+
+---
+
+## 🎯 Objetivos
+
+- Me tornar um desenvolvedor profissional
+- Trabalhar com sistemas backend
+- Construir aplicações reais
+- Crescer na área de tecnologia
+
+---
+
+## 🤝 Vamos nos conectar
+
+- 💼 LinkedIn: https://www.linkedin.com/in/helder-virissio-araujo
+- 💻 GitHub: https://github.com/Helder-Virissio
+
+---
+
+> _"Sempre aprendendo, construindo e evoluindo."_
