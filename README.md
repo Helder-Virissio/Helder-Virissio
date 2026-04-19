@@ -1,6 +1,6 @@
 # Olá 👋, eu sou Helder Araújo
 
-💻 **Estudante de Desenvolvimento de Software (DSM - Fatec Diadema)**  
+💻 **Estudante de Desenvolvimento de Software**  
 🇧🇷 Brasil  
 
 Estou focado em aprender **desenvolvimento backend**, **bancos de dados** e na construção de **projetos práticos**.  
@@ -61,7 +61,6 @@ Atualmente estou evoluindo minhas habilidades para me tornar um desenvolvedor pr
 ## 🤝 Vamos nos conectar
 
 - 💼 LinkedIn: https://www.linkedin.com/in/helder-virissio-araujo
-- 💻 GitHub: https://github.com/Helder-Virissio
 
 ---
 
