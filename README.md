@@ -12,14 +12,11 @@
   <a href="https://www.linkedin.com/in/helder-virissio-araujo" target="_blank">
     <img src="https://shields.io" alt="LinkedIn">
   </a>
-  <a href="https://youtube.com" target="_blank">
-    <img src="https://shields.io" alt="YouTube">
-  </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Linguagens
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
