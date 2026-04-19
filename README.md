@@ -1,7 +1,7 @@
 # 👋 Bem-Vendo(a)!
 
 💻 **Desenvolvedor em formação (DSM - Fatec Diadema)**  
-📍 Brasil <img src="https://flagcdn.com/w40/br.png" width="20"/>
+<img src="https://flagcdn.com/w40/br.png" width="20"/> Brasil
 
 🚀 Estou focado em aprender **backend**, **Frontend**, **bancos de dados** e construir **projetos reais** para evoluir como desenvolvedor.
 
