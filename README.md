@@ -1,7 +1,7 @@
 # Bem-Vindo(a)! 👋😁
 
 💻 **Estudante de Desenvolvimento de Software**  
-<img src="https://flagcdn.com/w40/br.png" width="20"/> Brasil Brasil  
+<img src="https://flagcdn.com/w40/br.png" width="20"/> Brasil  
 
 Estou focado em aprender **desenvolvimento backend**, **bancos de dados** e na construção de **projetos práticos**.  
 Atualmente estou evoluindo minhas habilidades para me tornar um desenvolvedor profissional.
