@@ -9,16 +9,14 @@
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/helder-virissio-araujo" target="_blank">
+  <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" alt="LinkedIn">
   </a>
 </p>
 
 ---
 
-## 🛠️ Linguagens
-
-### 🛠️ Tecnologias da Faculdade (DSM)
+## 🛠️ Tecnologias da Faculdade (DSM)
 
 #### Linguagens & Core
 ![JavaScript](https://shields.io)
@@ -33,11 +31,12 @@
 #### Banco de Dados & Infra
 ![MySQL](https://shields.io)
 ![Docker](https://shields.io)
-![Cloud](https://shields.io)
+![Azure](https://shields.io)
 
 #### Gestão & Design
 ![Git](https://shields.io)
 ![Figma](https://shields.io)
+
 ---
 
 ## 📊 GitHub Estatísticas
