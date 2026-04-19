@@ -3,7 +3,7 @@
 💻 **Desenvolvedor em formação (DSM - Fatec Diadema)**  
 📍 Brasil 🇧🇷  
 
-🚀 Estou focado em aprender **backend**, **bancos de dados** e construir **projetos reais** para evoluir como desenvolvedor.
+🚀 Estou focado em aprender **backend**, **Frontend**, **bancos de dados** e construir **projetos reais** para evoluir como desenvolvedor.
 
 ---
 
@@ -47,7 +47,6 @@
 ### 🗄️ Banco de Dados
 
 ![MySQL](https://img.shields.io/badge/MySQL-00A3A3?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3366FF?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -56,7 +55,6 @@
 ![Git](https://img.shields.io/badge/Git-FF4C29?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS%20Code-00BFFF?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-FF00AA?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ---
 
@@ -64,8 +62,6 @@
 
 <p align="left">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Helder-Virissio&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helder-Virissio&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
@@ -81,7 +77,6 @@
 ## 🤝 Vamos nos conectar
 
 - 💼 LinkedIn: https://www.linkedin.com/in/helder-virissio-araujo  
-- 💻 GitHub: https://github.com/Helder-Virissio  
 
 ---
 
