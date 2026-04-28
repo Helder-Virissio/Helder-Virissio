@@ -1,35 +1,34 @@
 # 👋 Bem-Vindo(a)!
 
-💻 **Desenvolvedor em formação (DSM - Fatec Diadema)**  
+**Desenvolvedor em formação (DSM - Fatec Diadema)**  
 <img src="https://flagcdn.com/w40/br.png" width="20"/> Brasil
 
-🚀 Estou focado em aprender **backend**, **Frontend**, **bancos de dados** e construir **projetos reais** para evoluir como desenvolvedor.
+Estou focado em aprender **backend**, **Frontend**, **bancos de dados**.
+---
+
+## O que estou aprendendo
+
+- Desenvolvimento backend com Java e APIs  
+- Banco de dados (MySQL / PostgreSQL)  
+- Lógica de programação e resolução de problemas  
+- Clean Code e boas práticas  
+- Git e GitHub para versionamento  
 
 ---
 
-## 🧠 O que estou aprendendo
+## Projetos
 
-- 🏗️ Desenvolvimento backend com Java e APIs  
-- 📊 Banco de dados (MySQL / PostgreSQL)  
-- ⚡ Lógica de programação e resolução de problemas  
-- 🧩 Clean Code e boas práticas  
-- 🔧 Git e GitHub para versionamento  
+- Sistema de cadastro com autenticação (Java + MySQL)  
+- API REST para gerenciamento de usuários  
+- Projetos acadêmicos do curso DSM  
 
----
-
-## 🚀 Projetos
-
-- 🔥 Sistema de cadastro com autenticação (Java + MySQL)  
-- ⚡ API REST para gerenciamento de usuários  
-- 📚 Projetos acadêmicos do curso DSM  
-
-> 💡 Sempre criando novos projetos para evoluir minhas habilidades
+> Sempre criando novos projetos para evoluir minhas habilidades
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
-### 💻 Linguagens
+### Linguagens
 
 ![Java](https://img.shields.io/badge/Java-FF6B35?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFDD00?style=for-the-badge&logo=javascript&logoColor=000)
@@ -37,20 +36,20 @@
 
 ---
 
-### 🌐 Desenvolvimento Web
+### Desenvolvimento Web
 
 ![HTML5](https://img.shields.io/badge/HTML5-FF3C00?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-0099FF?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-### 🗄️ Banco de Dados
+### Banco de Dados
 
 ![MySQL](https://img.shields.io/badge/MySQL-00A3A3?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-### ⚙️ Ferramentas
+### Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-FF4C29?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
@@ -58,28 +57,15 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <p align="left">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Helder-Virissio&show_icons=true&theme=tokyonight" />
 
 ---
 
-## 🎯 Objetivos
+## Vamos nos conectar
 
-- 🚀 Conseguir minha primeira oportunidade como desenvolvedor  
-- 📈 Evoluir em backend e bancos de dados  
-- 🏗️ Construir aplicações reais e escaláveis  
-- 💼 Crescer na área de tecnologia  
+- LinkedIn: https://www.linkedin.com/in/helder-virissio-araujo  
 
 ---
-
-## 🤝 Vamos nos conectar
-
-- 💼 LinkedIn: https://www.linkedin.com/in/helder-virissio-araujo  
-
----
-
-## ⚡ Filosofia
-
-> _"Sempre aprendendo, construindo e evoluindo."_
