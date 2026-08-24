@@ -1,13 +1,9 @@
-# 👋 Bem-Vindo(a)!
+# 👋 Olá Mundo! 
 
 **Desenvolvedor em formação (DSM - Fatec Diadema)**  
 <img src="https://flagcdn.com/w40/br.png" width="20"/> Brasil
 
-Estou focado em aprender **backend**, **Frontend**, **bancos de dados**.
----
-
 ## O que estou aprendendo
-
 - Desenvolvimento backend com Java e APIs  
 - Banco de dados (MySQL / PostgreSQL)  
 - Lógica de programação e resolução de problemas  
@@ -18,12 +14,8 @@ Estou focado em aprender **backend**, **Frontend**, **bancos de dados**.
 
 ## Projetos
 
-- Sistema de cadastro com autenticação (Java + MySQL)  
-- API REST para gerenciamento de usuários  
-- Projetos acadêmicos do curso DSM  
-
-> Sempre criando novos projetos para evoluir minhas habilidades
-
+> Sempre criando novos projetos para evoluir minhas habilidades <br>
+> Confira meu repositório: [Clique aqui](https://github.com/Helder-Virissio?tab=repositories)
 ---
 
 ## Tecnologias
