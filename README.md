@@ -49,15 +49,8 @@
 
 ---
 
-## Estatísticas do GitHub
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Helder-Virissio&show_icons=true&theme=tokyonight" />
-
----
-
 ## Vamos nos conectar
 
-- LinkedIn: https://www.linkedin.com/in/helder-virissio-araujo  
+- LinkedIn: [Perfil](https://www.linkedin.com/in/helder-virissio-araujo)  
 
 ---
