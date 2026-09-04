@@ -1,5 +1,3 @@
-# 👋 Olá Mundo!
-
 **Estudante Fatec Diadema - D.S.M - Desenvolvimento de Software Multiplataforma** <img src="https://flagcdn.com/w40/br.png" width="20"/> Brasil
 
 ---
